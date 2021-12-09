@@ -1,8 +1,6 @@
-<h1>Hey there! 👋  I'm Amogh Desai</h1>
-<h3>Open-Source enthusiast leveraging the power of Data Science to create Real-World impact!</h3>
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/39396816/145326620-6b114529-f80a-443d-b9ec-94a9868979fb.gif" /></h3>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=theand9&theme=dark" alt="theand9" /></p>
-<h1 align="right"><img src="https://thumbs.gfycat.com/AdvancedAdventurousKoodoo-size_restricted.gif" style="width:400px"></img></h1>
+<h1> 🧍🏽 MORE ABOUT ME </h1>
 
 - 🔭 I’m currently working on - [Effects of COVID-19 vaccine misinformation on individuals of Asian countries](https://github.com/TokyoTech-SasaharaLAB-CREST/Research-Internship)
 
@@ -10,15 +8,9 @@
 
 - 💬 Ask me about - **Python, Data Science, Machine Learning**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14k7Ed8-0ChiyicX2JzJqdC2BMWdsc6Tm/view?usp=sharing)
+- 📄 Know about my experiences - [Curriculum Vitae](https://drive.google.com/file/d/14k7Ed8-0ChiyicX2JzJqdC2BMWdsc6Tm/view?usp=sharing)
 
-<h3 align="left">CONNECT WITH ME</h3>
-<a href="mailto:amoghd9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://theand9.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/theand9/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@andsbmp17" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a></p>
-
-<h3 align="left">MY TOOLKIT</h3>
+<h1> &nbsp;:toolbox:&nbsp; MY TOOLKIT </h1>
 <p align="left"> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
@@ -40,8 +32,14 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white"/> </a>
 </p>
 
-<a href="#" target="blank"><img src="https://komarev.com/ghpvc/?username=theand9&label=Total%20Visits&color=0097f5&style=flat"/></a>
-<p><img src="https://github-readme-stats.vercel.app/api?username=theand9&show_icons=true&theme=onedark&locale=en"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theand9&show_icons=true&theme=onedark&locale=en&layout=compact" alt="theand9" /></p>
+<h1> &nbsp;:bar_chart:&nbsp; MY STATS </h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=theand9&show_icons=true&theme=onedark&locale=en" width="475px"></img> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=theand9&theme=dark" width="475px"></p> 
 
 
+<h1>&nbsp;:iphone:&nbsp; CONNECT WITH ME</h1>
+<p><a href="https://theand9.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="mailto:amoghd9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://medium.com/@andsbmp17" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/theand9/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#" target="blank"><img align="center" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=theand9&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/></a>
+</p>
