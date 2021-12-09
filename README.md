@@ -35,7 +35,7 @@
 
 <br>
 <h1> &nbsp;:bar_chart:&nbsp; MY STATS </h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=theand9&show_icons=true&theme=onedark&locale=en" width="475px"></img> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=theand9&theme=dark" width="475px"></p> 
+<p><img src="https://github-readme-stats.vercel.app/api?username=theand9&show_icons=true&theme=onedark&locale=en" width="400px"></img> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=theand9&theme=dark" width="400px"></p> 
 <p align="center"><img src="https://github.com/theand9/theand9/blob/output/github-contribution-grid-snake.svg"/></p>
 
 <br>
@@ -49,3 +49,4 @@
 
 <br>
 <h3 align="center"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=vision-friendly-dark&animation=default&layout=default&font=default" style="width:100%;"></img> </h3>
+<br>
