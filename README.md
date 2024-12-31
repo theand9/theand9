@@ -13,7 +13,7 @@
 
 <h2>📄 About Me</h2>
 
-- 🎓 **Carnegie Mellon University Grad** | Master's in Information Systems Management (2024)
+- 🎓 **Carnegie Mellon University Grad (Dec 2024)**
 - 🛠️ Experienced in **Data Science**, **Business Strategy**, and **AI/ML Solutions**.
 - 🌟 Passionate about transforming ideas into impactful solutions.
 
