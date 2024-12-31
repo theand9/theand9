@@ -23,19 +23,19 @@
 
 Here are some of the most impactful and innovative projects I have worked on and contributed to:
 
-1. **[Stingray](https://github.com/StingraySoftware/stingray)**  
+1. **[Stingray](https://github.com/StingraySoftware/stingray/pulls?q=+is%3Apr+author%3Atheand9+)**  
    *Time-series analysis toolkit for X-ray astronomy and beyond.*  
    Contributed to extending statistical methods for better insights into celestial observations.
 
-2. **[JazzHands](https://github.com/project-wavelets/JazzHands)**  
-   *Wavelet-based motion analysis for biomedical applications.*  
+2. **[JazzHands](https://github.com/project-wavelets/JazzHands/pulls?q=is%3Apr+author%3Atheand9+)**  
+   *Wavelet-based motion analysis for astrophysical applications.*  
    Collaborated on advanced signal processing to enhance real-time motion detection.
 
 3. **[Neural Image Captioning](https://github.com/theand9/Neural-Image-Captioning)**  
-   *A PyTorch-based framework for generating captions for images.*  
+   *Replicating Show, Attend and Tell Research Paper: framework for generating captions for images.*  
    Developed using CNNs and RNNs to enhance AI's contextual understanding of images.
 
-4. **[Crop Yield Predictor](https://github.com/theand9/pY-Predictive-Yield)**  
+4. **[Crop Yield Predictor](https://github.com/theand9/Crop-Recommender)**  
    *Multilingual crop recommendation API promoting sustainable farming.*  
    Achieved a 30% increase in farming profitability with a 91% F1 score.
 
