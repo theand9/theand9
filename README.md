@@ -40,7 +40,7 @@ Here are some of the most impactful and innovative projects I have worked on and
    Achieved a 30% increase in farming profitability with a 91% F1 score.
 
 5. **[Checkmate Fact Checker](https://github.com/theand9/checkmate_fact-checker)**  
-   *Real-time misinformation detection using BERT.*  
+   *Real-time misinformation detection using NLP.*  
    Improved public health campaign engagement by 18% for high-risk groups.
 
 Explore more projects in my repositories!
@@ -58,18 +58,9 @@ Explore more projects in my repositories!
 <h2>🔗 Let's Connect</h2>
 
 <div align="center" style="font-size: 18px;">
-  <strong>📧 Email me:</strong> <a href="mailto:desaiamogh21@gmail.com" target="_blank">desaiamogh21@gmail.com</a>
+  <strong>📧 Email Me:</strong> <a href="mailto:desaiamogh21@gmail.com" target="_blank">desaiamogh21@gmail.com</a>
   <br><br>
-  <strong>💼 Connect on LinkedIn:</strong> <a href="https://www.linkedin.com/in/desaiamogh/" target="_blank">https://www.linkedin.com/in/desaiamogh/</a>
+  <strong>💼 Add me on LinkedIn:</strong> <a href="https://www.linkedin.com/in/desaiamogh/" target="_blank">https://www.linkedin.com/in/desaiamogh/</a>
   <br><br>
   <strong>📌 Check out my portfolio:</strong> <a href="https://tinyurl.com/amogh-portfolio" target="_blank">https://tinyurl.com/amogh-portfolio</a>
 </div>
-
----
-
-<h2>📊 My GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=theand9&show_icons=true&theme=onedark&locale=en" width="400px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theand9&theme=dark" width="400px" alt="GitHub Streak" />
-</p>
