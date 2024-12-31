@@ -28,12 +28,12 @@ Here are some of the most impactful and innovative projects I have worked on and
    Contributed to extending statistical methods for better insights into celestial observations.
 
 2. **[JazzHands](https://github.com/project-wavelets/JazzHands/pulls?q=is%3Apr+author%3Atheand9+)**  
-   *Wavelet-based motion analysis for astrophysical applications.*  
-   Collaborated on advanced signal processing to enhance real-time motion detection.
+   *Wavelet-based analysis for astrophysical applications.*  
+   Collaborated on advanced signal processing to enhance high-energy spectra applications.
 
 3. **[Neural Image Captioning](https://github.com/theand9/Neural-Image-Captioning)**  
    *Replicating Show, Attend and Tell Research Paper: framework for generating captions for images.*  
-   Developed using CNNs and RNNs to enhance AI's contextual understanding of images.
+   Developed using CNNs and LSTMs to enhance AI's contextual understanding of images.
 
 4. **[Crop Yield Predictor](https://github.com/theand9/Crop-Recommender)**  
    *Multilingual crop recommendation API promoting sustainable farming.*  
